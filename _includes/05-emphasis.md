@@ -1,2 +1,10 @@
 **Java is the King**
-***But a Cu of Coffe even better :) :+1:***
+
+***But a Cup of Coffe even better :) :+1: ***
+
+<details>
+  <summary>What are we doing tonight?</summary>
+
+  Keep study! :heart:
+
+</details>
