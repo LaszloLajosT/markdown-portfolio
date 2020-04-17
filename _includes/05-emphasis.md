@@ -2,7 +2,4 @@
  - Why doesn't work?
  - Now!
 
-* Java
-* c#
-* C
 
