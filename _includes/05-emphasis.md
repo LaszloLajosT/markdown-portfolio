@@ -1,6 +1,3 @@
- 
-
-Ok, so here are some stuff wwhat I use to learn in my free time:
 
 **Programming languages:**
 * Java
@@ -25,3 +22,5 @@ My hobbies:
 - Running ( My favourite distance is 800m in 2019)
 - Listen to music and play on instruments
 - Surfing on Internet :)
+
+So, so these are some stuff wwhat I use to learn or do in my free time.
